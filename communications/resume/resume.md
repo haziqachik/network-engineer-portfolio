@@ -3,21 +3,14 @@ Singapore (East) · +65 9487 4556 · haziqh@hotmail.com
 [linkedin.com/in/haziqasyraaf-sg](https://www.linkedin.com/in/haziqasyraaf-sg) · [github.com/haziqachik](https://github.com/haziqachik)
 
 ## Summary
-- CEH-certified IT professional transitioning into network and security engineering, combining analytics, automation, and operations experience.
-- Builds secure, data-driven solutions: Power BI dashboards for 15k+ firms, FormSG workflow automation, UiPath bots, Python data pipelines.
-- Hands-on with network monitoring/troubleshooting from Police Coast Guard service; actively developing CCNA-level routing/switching labs.
-- Known for cross-agency collaboration, disciplined execution, and continuous upskilling (Azure Security, cloud platforms, automation).
+CEH-certified IT professional pivoting into network and security engineering. I combine analytics, automation, and operations experience to deliver secure, data-driven solutions—most recently building Power BI dashboards for 15k+ firms and automating FormSG workflows. Currently deepening CCNA-level routing/switching skills, Azure security, and incident response practices while bringing the discipline of national service operations to every engagement.
 
 ## Core Skills
-**Networking & Security:** Routing & switching labs (OSPF, VLANs), network monitoring, access control, CEH methodologies, Azure security fundamentals (in progress)
-
-**Analytics & Automation:** Power BI (Power Query/M), DAX, SQL, Tableau, Python, UiPath, Excel modeling
-
-**Cloud & DevOps:** Azure, AWS, Google Cloud (learning), Docker (learning), Git/GitHub/GitLab
-
-**Programming & Scripting:** Python, SQL, Java, C#, VB.NET, JavaScript, HTML/CSS
-
-**Tools & Platforms:** FormSG, Postman, UiPath Orchestrator, Oracle DB, VMware/VirtualBox
+- **Networking & Security:** Routing & switching labs (OSPF, VLANs), network monitoring, access control, CEH methodologies, Azure security fundamentals (in progress)
+- **Analytics & Automation:** Power BI (Power Query/M), DAX, SQL, Tableau, Python, UiPath, Excel modeling
+- **Cloud & DevOps:** Azure, AWS, Google Cloud (learning), Docker (learning), Git/GitHub/GitLab
+- **Programming & Scripting:** Python, SQL, Java, C#, VB.NET, JavaScript, HTML/CSS
+- **Tools & Platforms:** FormSG, Postman, UiPath Orchestrator, Oracle DB, VMware/VirtualBox
 
 ## Certifications
 - EC-Council Certified Ethical Hacker (CEH) – SkillsFuture Singapore (2024)
@@ -41,9 +34,9 @@ Singapore (East) · +65 9487 4556 · haziqh@hotmail.com
 - Created UiPath automations to accelerate repetitive test steps and reporting.
 - Coordinated with data analysts and survey operations to align testing outcomes with field requirements.
 
-### Radar Operator Officer · Singapore Police Force (Police Coast Guard)
+### Radar Operator Officer (National Service) · Singapore Police Force (Police Coast Guard)  
 Coastal Patrol Squadron · Aug 2020 – Dec 2022
-- Operated radar surveillance systems, tracked maritime traffic in real time, and escalated incidents requiring interception.
+- Completed National Service operating maritime radar surveillance systems and escalating incidents requiring interception.
 - Maintained radar equipment readiness and collaborated with patrol units to enforce maritime security.
 
 ### Information Technology Officer · Ministry of Manpower (MOM), Singapore  
@@ -65,21 +58,23 @@ May 2016 – Dec 2016
 
 ## Education
 **Temasek Polytechnic – Diploma in Information Technology** · 2017 – 2020  
-Focus areas: Software development, network technologies, secure coding, data analytics, cloud computing.
+Relevant modules: Network Technology, Secure Coding Practices, IT Security Essentials, Data Mining & Analytics, Full Stack Web Development, Application Development Project.
 
 **ITE College East – Nitec in Info-Communications Technology (Cloud Computing)** · 2015 – 2016  
-Coursework: IT & network essentials, virtualization, cloud infrastructure operations.
+Relevant modules: IT & Network Essentials, Server Essentials, Virtualization Technology, Cloud Infrastructure & Operations, Business Applications for the Cloud.
 
-## Projects (Portfolio)
-- **Self-Hosted RPA Platform (2020–2024):** UiPath bots aggregating e-commerce data, exporting results to Excel, and emailing stakeholders via custom UI.
-- **Network Engineering Labs:** Documented OSPF single-area and multi-area topologies (Python automation checks in progress) – see GitHub portfolio.
-- **Power BI Workforce Dashboards:** Secure multi-agency dashboards with data-driven workforce insights for 15k+ CRS firms.
+## Projects & Portfolio Highlights
+- **Power BI Workforce Dashboards:** Secure multi-agency dashboards with data-driven workforce insights for 15k+ CRS firms; documented in GitHub portfolio.
+- **FormSG Automation:** Designed end-to-end survey automation with Postman-triggered email workflows and data cleansing scripts.
+- **Self-Hosted RPA Platform (2020–2024):** UiPath bots aggregating e-commerce datasets, exporting analytics to Excel, and emailing stakeholders via custom UI.
+- **Network Engineering Labs:** Documented OSPF single-area and multi-area topologies with validation outputs; building automation checks in Python.
+- **SkillsFuture CEH Bootcamp (2025):** Executed recon-to-persistence labs using Nmap, Metasploit, Burp Suite, mimikatz; authored remediation report (notes in `notes/certs/ceh/`).
 
-## Additional Training
-- 100 Days of Code: Python Pro Bootcamp
+## Additional Training & Learning Roadmap
+- 100 Days of Code: Python Pro Bootcamp (in progress; labs to be published upon completion)
 - PL-300: Microsoft Power BI Data Analyst – Practice Exams
-- Complete Ethical Hacker Certification Prep
-- C++ Masterclass
+- Complete Ethical Hacker Certification Prep Course
+- C++ Masterclass (Udemy)
 
 ## Achievements
 - Testimonials from ITE lecturer, GovTech supervisor, and BCA leadership.
