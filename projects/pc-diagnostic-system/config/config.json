@@ -1,0 +1,57 @@
+{
+  "version": "1.0.0",
+  "settings": {
+    "temperature_thresholds": {
+      "cpu_warning": 70,
+      "cpu_critical": 85,
+      "gpu_warning": 75,
+      "gpu_critical": 90
+    },
+    "optimization": {
+      "create_restore_point": true,
+      "require_confirmation": true,
+      "backup_registry": true,
+      "cleanup_temp_files": true,
+      "optimize_startup": true,
+      "optimize_services": true
+    },
+    "reporting": {
+      "format": "html",
+      "export_json": true,
+      "include_upgrade_prices": true,
+      "show_detailed_specs": true
+    },
+    "diagnostics": {
+      "check_event_logs": true,
+      "parse_crash_dumps": true,
+      "check_driver_updates": true,
+      "monitor_temperatures": true,
+      "analyze_disk_health": true,
+      "check_ram_health": true
+    },
+    "upgrade_recommendations": {
+      "budget_tiers": {
+        "budget": 300,
+        "mid_range": 800,
+        "high_end": 2000
+      },
+      "show_compatibility_warnings": true,
+      "include_psu_calculations": true
+    }
+  },
+  "paths": {
+    "temp_cleanup": [
+      "%TEMP%",
+      "%WINDIR%\\Temp",
+      "%LOCALAPPDATA%\\Microsoft\\Windows\\INetCache"
+    ],
+    "reports_output": "reports",
+    "backup_location": "backups"
+  },
+  "thresholds": {
+    "ram_usage_warning": 80,
+    "disk_space_warning": 85,
+    "cpu_usage_warning": 85,
+    "startup_programs_warning": 15
+  }
+}

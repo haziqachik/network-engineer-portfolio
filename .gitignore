@@ -15,6 +15,10 @@ __pycache__/
 # Diagrams
 *.drawio.bkp
 
+# PC Diagnostic System
+projects/pc-diagnostic-system/reports/
+projects/pc-diagnostic-system/backups/
+
 # Misc
 .DS_Store
 Thumbs.db
